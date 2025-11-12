@@ -64,10 +64,11 @@ I enjoy working with <strong>Power BI, Tableau, Python, SQL, and Excel</strong> 
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed3taa&show_icons=true&theme=gotham&hide=contribs" alt="Mohamed3taa" />
 </p>
 
-<img align="right" alt="Dashboard GIF" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
-
 ---
 
 <div align="center">
-Show some ❤️ by starring some of the repositories!
+  Show some ❤️ by starring some of the repositories!
+  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhtdGZjdDdteHJ0anRiZ3pvdWQzbDdsdDNlbnk3bDNlYTEzanByNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TR996IaHtmDi1x98zW/giphy.gif" alt="Star GIF" width="80"/>
 </div>
+
