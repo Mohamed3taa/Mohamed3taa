@@ -68,14 +68,6 @@ I enjoy working with <strong>Power BI, Tableau, Python, SQL, and Excel</strong> 
 
 ---
 
-
-### 🎯 Interests & Fun
-- Chess ♘ <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="25"/>
-- Football ⚽ <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" width="25"/>
-- Exploring new data tools & dashboards 📊
-
----
-
 <div align="center">
 Show some ❤️ by starring some of the repositories!
 </div>
