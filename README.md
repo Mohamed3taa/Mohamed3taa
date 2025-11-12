@@ -16,7 +16,7 @@ I specialize in **data analysis, business intelligence, dashboards, and automati
 I enjoy working with **Power BI, Tableau, Python, SQL, Excel**, and other tools to analyze, visualize, and interpret complex datasets.  
 I also have experience in web technologies like **HTML, CSS, JavaScript, Vue.js, PHP & Laravel**, which help me build interactive dashboards and data-driven web applications.
 
-- 📫 How to reach me: [mohammad.elbassal@example.com](mailto:mohammad.elbassal@example.com)  
+- 📫 How to reach me: [mohammadataaelbassal@gmail.com](mailto:mohammadataaelbassal@gmail.com)  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/mohammadataa](https://www.linkedin.com/in/mohammadataa)  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed3taa" alt="Mohamed3taa" /> </p>
