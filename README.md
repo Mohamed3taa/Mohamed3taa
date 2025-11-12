@@ -17,7 +17,7 @@
 Hi, I'm **Mohammad Elbassal**, a **Data Analyst & Data Enthusiast** 👨🏻‍💻.  
 I specialize in **data analysis, business intelligence, dashboards, and automation**, and I love transforming data into actionable insights.  
 
-<img align="right" alt="Data Analysis GIF" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWQ2ZDM5dmRkbTk4N2c1anB1MGJpbndmYnJoczYzdXhkZ2t0NWk4YSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/kmu3cdsVNLzAu8Je0l/giphy.gif" width="250"/>
+<img align="right" alt="Data Analysis GIF" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWQ2ZDM5dmRkbTk4N2c1anB1MGJpbndmYnJoczYzdXhkZ2t0NWk4YSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/kmu3cdsVNLzAu8Je0l/giphy.gif" width="180"/>
 
 I enjoy working with **Power BI, Tableau, Python, SQL, Excel**, and other tools to analyze, visualize, and interpret complex datasets.  
 I also have experience in web technologies like **HTML, CSS, JavaScript, Vue.js, PHP & Laravel**, which help me build interactive dashboards and data-driven web applications.
