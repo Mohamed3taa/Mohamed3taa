@@ -12,13 +12,21 @@
   </a>
 </p>
 <br>
-Hi, I'm **Mohammad Elbassal**, a **Data Analyst & Data Enthusiast** 👨🏻‍💻.  
-I specialize in **data analysis, business intelligence, dashboards, and data visualization**, turning raw data into actionable insights.  
-I enjoy working with **Power BI, Tableau, Python, SQL, and Excel** to analyze, visualize, and interpret complex datasets.
-<img align="right" alt="Data Analysis GIF" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWQ2ZDM5dmRkbTk4N2c1anB1MGJpbndmYnJoczYzdXhkZ2t0NWk4YSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/kmu3cdsVNLzAu8Je0l/giphy.gif" width="180"/>
 
-- 📫 How to reach me: [mohammadataaelbassal@gmail.com](mailto:mohammadataaelbassal@gmail.com)  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/mohammadataa](https://www.linkedin.com/in/mohammadataa)  
+<div style="display:flex; align-items:flex-start; gap:20px;">
+  <div style="flex:1; min-width:250px;">
+    Hi, I'm **Mohammad Elbassal**, a **Data Analyst & Data Enthusiast** 👨🏻‍💻.  
+    I specialize in **data analysis, business intelligence, dashboards, and data visualization**, turning raw data into actionable insights.  
+    I enjoy working with **Power BI, Tableau, Python, SQL, and Excel** to analyze, visualize, and interpret complex datasets.
+
+    - 📫 How to reach me: [mohammadataaelbassal@gmail.com](mailto:mohammadataaelbassal@gmail.com)  
+    - 🔗 LinkedIn: [https://www.linkedin.com/in/mohammadataa](https://www.linkedin.com/in/mohammadataa)  
+  </div>
+
+  <div>
+    <img alt="Data Analysis GIF" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWQ2ZDM5dmRkbTk4N2c1anB1MGJpbndmYnJoczYzdXhkZ2t0NWk4YSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/kmu3cdsVNLzAu8Je0l/giphy.gif" width="180"/>
+  </div>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed3taa" alt="Mohamed3taa" /> </p>
 
@@ -48,6 +56,7 @@ I enjoy working with **Power BI, Tableau, Python, SQL, and Excel** to analyze, v
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=Olist_Ecommerce_Project&theme=dracula" />
 </a>
 </p>
+
 ---
 
 ### 📈 GitHub Stats
