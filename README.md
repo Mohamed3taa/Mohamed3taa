@@ -11,13 +11,10 @@
     <img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>
   </a>
 </p>
-
 <br>
-
 Hi, I'm **Mohammad Elbassal**, a **Data Analyst & Data Enthusiast** 👨🏻‍💻.  
 I specialize in **data analysis, business intelligence, dashboards, and data visualization**, turning raw data into actionable insights.  
 I enjoy working with **Power BI, Tableau, Python, SQL, and Excel** to analyze, visualize, and interpret complex datasets.
-
 <img align="right" alt="Data Analysis GIF" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWQ2ZDM5dmRkbTk4N2c1anB1MGJpbndmYnJoczYzdXhkZ2t0NWk4YSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/kmu3cdsVNLzAu8Je0l/giphy.gif" width="180"/>
 
 - 📫 How to reach me: [mohammadataaelbassal@gmail.com](mailto:mohammadataaelbassal@gmail.com)  
