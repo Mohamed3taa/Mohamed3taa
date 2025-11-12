@@ -15,9 +15,9 @@
 
 <div style="display:flex; align-items:flex-start; gap:20px;">
   <div style="flex:1; min-width:250px;">
-   Hi, I'm **Mohammad Elbassal**, a **Data Analyst & Data Enthusiast** 👨🏻‍💻.  
-I specialize in **data analysis, business intelligence, dashboards, and data visualization**, turning raw data into actionable insights.  
-I enjoy working with **Power BI, Tableau, Python, SQL, and Excel** to analyze, visualize, and interpret complex datasets.
+   Hi, I'm <strong>Mohammad Elbassal</strong>, a <strong>Data Analyst & Data Enthusiast</strong> 👨🏻‍💻.  
+I specialize in <strong>data analysis, business intelligence, dashboards, and data visualization</strong>, turning raw data into actionable insights.  
+I enjoy working with <strong>Power BI, Tableau, Python, SQL, and Excel</strong> to analyze, visualize, and interpret complex datasets.
 
     - 📫 How to reach me: [mohammadataaelbassal@gmail.com](mailto:mohammadataaelbassal@gmail.com)  
     - 🔗 LinkedIn: [https://www.linkedin.com/in/mohammadataa](https://www.linkedin.com/in/mohammadataa)  
