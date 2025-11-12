@@ -1,9 +1,15 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <p align="left">
-<a href="https://www.facebook.com/Mohammad3taa" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/facebook.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mohammadataa" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/mohammad_3taa" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>
+  <a href="https://www.facebook.com/Mohammad3taa" target="_blank">
+    <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohammadataa" target="_blank">
+    <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/mohammad_3taa" target="_blank">
+    <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" />
+  </a>
 </p>
 
 <br>
