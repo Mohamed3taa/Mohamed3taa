@@ -2,16 +2,15 @@
 
 <p align="left">
   <a href="https://www.facebook.com/Mohammad3taa" target="_blank">
-    <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" style="color:#1877F2; fill:#1877F2;"/>
+    <img height="30" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohammadataa" target="_blank">
-    <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" style="color:#0A66C2; fill:#0A66C2;"/>
+    <img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/mohammad_3taa" target="_blank">
-    <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" style="color:#E4405F; fill:#E4405F;"/>
+    <img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>
   </a>
 </p>
-
 
 <br>
 
