@@ -11,10 +11,10 @@
 Hi, I'm **Mohammad Elbassal**, a **Data Analyst & Data Enthusiast** 👨🏻‍💻.  
 I specialize in **data analysis, business intelligence, dashboards, and automation**, and I love transforming data into actionable insights.  
 
+<img align="right" alt="Data Analysis GIF" src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="250"/>
+
 I enjoy working with **Power BI, Tableau, Python, SQL, Excel**, and other tools to analyze, visualize, and interpret complex datasets.  
 I also have experience in web technologies like **HTML, CSS, JavaScript, Vue.js, PHP & Laravel**, which help me build interactive dashboards and data-driven web applications.
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
 - 📫 How to reach me: [mohammad.elbassal@example.com](mailto:mohammad.elbassal@example.com)  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/mohammadataa](https://www.linkedin.com/in/mohammadataa)  
@@ -26,18 +26,18 @@ I also have experience in web technologies like **HTML, CSS, JavaScript, Vue.js,
 ### **Languages and Tools**
 <br>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/excel/excel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/power-bi/power-bi.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tableau/tableau.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/streamlit/streamlit.png"></code>
+<code><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/SQL-005C8C?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"></code>
+<code><img height="25" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
+<code><img height="25" src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></code>
 
 ---
 
@@ -58,12 +58,14 @@ I also have experience in web technologies like **HTML, CSS, JavaScript, Vue.js,
   <img src="https://github-readme-stats.vercel.app/api?username=MohammadElbassal&show_icons=true&theme=gotham" alt="MohammadElbassal" />
 </p>
 
+<img align="right" alt="Dashboard GIF" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
+
 ---
 
 ### 🎯 Interests & Fun
-- Chess ♘  
-- Football ⚽  
-- Exploring new data tools & dashboards 📊  
+- Chess ♘ <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="25"/>
+- Football ⚽ <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" width="25"/>
+- Exploring new data tools & dashboards 📊
 
 ---
 
