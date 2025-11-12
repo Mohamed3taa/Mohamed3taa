@@ -19,7 +19,7 @@ I also have experience in web technologies like **HTML, CSS, JavaScript, Vue.js,
 - 📫 How to reach me: [mohammad.elbassal@example.com](mailto:mohammad.elbassal@example.com)  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/mohammadataa](https://www.linkedin.com/in/mohammadataa)  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammadElbassal" alt="MohammadElbassal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed3taa" alt="Mohamed3taa" /> </p>
 
 ---
 
@@ -43,11 +43,11 @@ I also have experience in web technologies like **HTML, CSS, JavaScript, Vue.js,
 
 ### 📌 Pinned Projects
 <p align="left">
-<a href="https://github.com/MohammadElbassal/Project1" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadElbassal&repo=Project1&theme=dracula" />
+<a href="https://github.com/Mohamed3taa/Project1" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=Project1&theme=dracula" />
 </a>
-<a href="https://github.com/MohammadElbassal/Project2" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadElbassal&repo=Project2&theme=dracula" />
+<a href="https://github.com/Mohamed3taa/Project2" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=Project2&theme=dracula" />
 </a>
 </p>
 
@@ -55,7 +55,7 @@ I also have experience in web technologies like **HTML, CSS, JavaScript, Vue.js,
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadElbassal&show_icons=true&theme=gotham" alt="MohammadElbassal" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed3taa&show_icons=true&theme=gotham" alt="Mohamed3taa" />
 </p>
 
 <img align="right" alt="Dashboard GIF" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
