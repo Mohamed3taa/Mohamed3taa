@@ -43,14 +43,10 @@ I also have experience in web technologies like **HTML, CSS, JavaScript, Vue.js,
 
 ### 📌 Pinned Projects
 <p align="left">
-<a href="https://github.com/Mohamed3taa/Project1" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=Project1&theme=dracula" />
-</a>
-<a href="https://github.com/Mohamed3taa/Project2" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=Project2&theme=dracula" />
+<a href="https://github.com/Mohamed3taa/Olist_Ecommerce_Project" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=Olist_Ecommerce_Project&theme=dracula" />
 </a>
 </p>
-
 ---
 
 ### 📈 GitHub Stats
