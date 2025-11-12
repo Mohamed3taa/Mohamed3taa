@@ -61,12 +61,13 @@ I enjoy working with <strong>Power BI, Tableau, Python, SQL, and Excel</strong> 
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed3taa&show_icons=true&theme=gotham" alt="Mohamed3taa" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed3taa&show_icons=true&theme=gotham&hide=contribs" alt="Mohamed3taa" />
 </p>
 
 <img align="right" alt="Dashboard GIF" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
 
 ---
+
 
 ### 🎯 Interests & Fun
 - Chess ♘ <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="25"/>
