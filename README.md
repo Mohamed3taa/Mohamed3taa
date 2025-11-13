@@ -60,6 +60,7 @@ I enjoy working with <strong>Power BI, Tableau, Python, SQL, Streamlit, and Exce
   </a>
 </p>
 
+---
 
 ### 📈 GitHub Stats
 <p align="center">
