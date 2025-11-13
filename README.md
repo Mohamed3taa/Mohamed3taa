@@ -67,7 +67,6 @@ I enjoy working with <strong>Power BI, Tableau, Python, SQL, Streamlit, and Exce
 </p>
 
 ---
-
 <div align="center">
   Show some ❤️ by starring some of the repositories!
   <br>
