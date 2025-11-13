@@ -53,10 +53,10 @@ I enjoy working with <strong>Power BI, Tableau, Python, SQL, Streamlit, and Exce
 ### 📌 Pinned Projects
 <p align="left">
   <a href="https://github.com/Mohamed3taa/Olist_Ecommerce_Project" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=Olist_Ecommerce_Project&theme=dracula" />
+    <img align="center" width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=Olist_Ecommerce_Project&theme=dracula" />
   </a>
   <a href="https://github.com/Mohamed3taa/SuperMarket_Analysis" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=SuperMarket_Analysis&theme=dracula" />
+    <img align="center" width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=SuperMarket_Analysis&theme=dracula" />
   </a>
 </p>
 
