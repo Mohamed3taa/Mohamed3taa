@@ -17,7 +17,7 @@
   <div style="flex:1; min-width:250px;">
    Hi, I'm <strong>Mohammad Elbassal</strong>, a <strong>Data Analyst & Data Enthusiast</strong> 👨🏻‍💻.  
 I specialize in <strong>data analysis, business intelligence, dashboards, and data visualization</strong>, turning raw data into actionable insights.  
-I enjoy working with <strong>Power BI, Tableau, Python, SQL, and Excel</strong> to analyze, visualize, and interpret complex datasets.
+I enjoy working with <strong>Power BI, Tableau, Python, SQL, Streamlit, and Excel</strong> to analyze, visualize, and interpret complex datasets.
 
    - 📫 How to reach me: [mohammadataaelbassal@gmail.com](mailto:mohammadataaelbassal@gmail.com)  
    - 🔗 LinkedIn: [https://www.linkedin.com/in/mohammadataa](https://www.linkedin.com/in/mohammadataa)  
@@ -52,9 +52,12 @@ I enjoy working with <strong>Power BI, Tableau, Python, SQL, and Excel</strong> 
 
 ### 📌 Pinned Projects
 <p align="left">
-<a href="https://github.com/Mohamed3taa/Olist_Ecommerce_Project" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=Olist_Ecommerce_Project&theme=dracula" />
-</a>
+  <a href="https://github.com/Mohamed3taa/Olist_Ecommerce_Project" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=Olist_Ecommerce_Project&theme=dracula" />
+  </a>
+  <a href="https://github.com/Mohamed3taa/SuperMarket_Analysis" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=SuperMarket_Analysis&theme=dracula" />
+  </a>
 </p>
 
 ---
@@ -71,4 +74,3 @@ I enjoy working with <strong>Power BI, Tableau, Python, SQL, and Excel</strong> 
   <br>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhtdGZjdDdteHJ0anRiZ3pvdWQzbDdsdDNlbnk3bDNlYTEzanByNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TR996IaHtmDi1x98zW/giphy.gif" alt="Star GIF" width="80"/>
 </div>
-
