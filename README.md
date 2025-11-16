@@ -50,27 +50,22 @@ I enjoy working with <strong>Power BI, Tableau, Python, SQL, Streamlit, and Exce
 
 ---
 
+### 📌 Pinned Projects
 <p align="left">
-  <h3>📌 Pinned Projects</h3>
-</p>
+  <a href="https://github.com/Mohamed3taa/Olist_Ecommerce_Project" target="_blank" style="margin-right: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=Olist_Ecommerce_Project&theme=dracula&cache_seconds=0" />
+  </a>
 
-<p>
-  <a href="https://github.com/Mohamed3taa/Olist_Ecommerce_Project" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=Olist_Ecommerce_Project&theme=dracula&cache_seconds=0" />
+  <a href="https://github.com/Mohamed3taa/SuperMarket_Analysis" target="_blank" style="margin-right: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=SuperMarket_Analysis&theme=dracula&cache_seconds=0" />
+  </a>
+
+  <a href="https://github.com/Mohamed3taa/BallonDOr-Winners-Analysis" target="_blank" style="margin-right: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=BallonDOr-Winners-Analysis&theme=dracula&cache_seconds=0" />
   </a>
 </p>
 
-<p>
-  <a href="https://github.com/Mohamed3taa/SuperMarket_Analysis" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=SuperMarket_Analysis&theme=dracula&cache_seconds=0" />
-  </a>
-</p>
 
-<p>
-  <a href="https://github.com/Mohamed3taa/BallonDOr-Winners-Analysis" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=BallonDOr-Winners-Analysis&theme=dracula&cache_seconds=0" />
-  </a>
-</p>
 ---
 
 ### 📈 GitHub Stats
