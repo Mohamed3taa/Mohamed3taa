@@ -67,11 +67,6 @@ I enjoy working with <strong>Power BI, Tableau, Python, SQL, Streamlit, and Exce
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=BallonDOr-Winners-Analysis&theme=dracula&cache_seconds=0" />
   </a>
 
-  <a href="https://github.com/Mohamed3taa/Your_Another_Project" target="_blank" style="margin-right: 10px; margin-bottom: 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=Your_Another_Project&theme=dracula&cache_seconds=0" />
-  </a>
-</p>
-
 
 ---
 
