@@ -51,7 +51,6 @@
 ---
 
 ### 📌 Pinned Projects  
-**(Using stable mirror — always works)**  
 <p align="left">
   <a href="https://github.com/Mohamed3taa/Olist_Ecommerce_Project" target="_blank">
     <img align="center" 
@@ -74,10 +73,11 @@
 ### 📈 GitHub Stats  
 <p align="center">
   <img 
-    src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=Mohamed3taa&show_icons=true&theme=gotham&hide=contribs&cache_seconds=86400" 
-    alt="Mohamed3taa Stats" 
+    src="https://github-readme-stats-evirunurm.vercel.app/api?username=Mohamed3taa&show_icons=true&theme=gotham&a=1" 
+    alt="Mohamed3taa GitHub Stats" 
   />
 </p>
+
 
 ---
 
