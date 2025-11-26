@@ -73,7 +73,7 @@
 ### 📈 GitHub Stats  
 <p align="center">
   <img 
-    src="https://github-readme-stats-evirunurm.vercel.app/api?username=Mohamed3taa&show_icons=true&theme=gotham&a=1" 
+    src="[https://github-readme-stats-evirunurm.vercel.app/api?username=Mohamed3taa&show_icons=true&theme=gotham&a=1](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=Mohamed3taa&show_icons=true)" 
     alt="Mohamed3taa GitHub Stats" 
   />
 </p>
