@@ -16,8 +16,8 @@
 <div style="display:flex; align-items:flex-start; gap:20px;">
   <div style="flex:1; min-width:250px;">
    Hi, I'm <strong>Mohammad Elbassal</strong>, a <strong>Data Analyst & Data Enthusiast</strong> 👨🏻‍💻.  
-I specialize in <strong>data analysis, business intelligence, dashboards, and data visualization</strong>, turning raw data into actionable insights.  
-I enjoy working with <strong>Power BI, Tableau, Python, SQL, Streamlit, and Excel</strong> to analyze, visualize, and interpret complex datasets.
+   I specialize in <strong>data analysis, business intelligence, dashboards, and data visualization</strong>, turning raw data into actionable insights.  
+   I enjoy working with <strong>Power BI, Tableau, Python, SQL, Streamlit, and Excel</strong> to analyze, visualize, and interpret complex datasets.
 
    - 📫 How to reach me: [mohammadataaelbassal@gmail.com](mailto:mohammadataaelbassal@gmail.com)  
    - 🔗 LinkedIn: [https://www.linkedin.com/in/mohammadataa](https://www.linkedin.com/in/mohammadataa)  
@@ -50,27 +50,37 @@ I enjoy working with <strong>Power BI, Tableau, Python, SQL, Streamlit, and Exce
 
 ---
 
-### 📌 Pinned Projects
+### 📌 Pinned Projects  
+**(Using stable mirror — always works)**  
 <p align="left">
   <a href="https://github.com/Mohamed3taa/Olist_Ecommerce_Project" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=Olist_Ecommerce_Project&theme=dracula&cache_seconds=0" />
+    <img align="center" 
+      src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Mohamed3taa&repo=Olist_Ecommerce_Project&theme=dracula&cache_seconds=86400" />
   </a>
+
   <a href="https://github.com/Mohamed3taa/SuperMarket_Analysis" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=SuperMarket_Analysis&theme=dracula&cache_seconds=0" />
+    <img align="center" 
+      src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Mohamed3taa&repo=SuperMarket_Analysis&theme=dracula&cache_seconds=86400" />
   </a>
+
   <a href="https://github.com/Mohamed3taa/BallonDOr-Winners-Analysis" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=BallonDOr-Winners-Analysis&theme=dracula&cache_seconds=0" />
+    <img align="center" 
+      src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Mohamed3taa&repo=BallonDOr-Winners-Analysis&theme=dracula&cache_seconds=86400" />
   </a>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed3taa&show_icons=true&theme=gotham&hide=contribs" alt="Mohamed3taa" />
+  <img 
+    src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=Mohamed3taa&show_icons=true&theme=gotham&hide=contribs&cache_seconds=86400" 
+    alt="Mohamed3taa Stats" 
+  />
 </p>
 
 ---
+
 <div align="center">
   Show some ❤️ by starring some of the repositories!
   <br>
