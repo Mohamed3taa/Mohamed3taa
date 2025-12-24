@@ -50,31 +50,6 @@
 
 ---
 
-### 📌 Pinned Projects  
-<p align="left">
-  <a href="https://github.com/Mohamed3taa/Olist_Ecommerce_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=Olist_Ecommerce_Project&theme=dracula" />
-  </a>
-
-  <a href="https://github.com/Mohamed3taa/SuperMarket_Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=SuperMarket_Analysis&theme=dracula" />
-  </a>
-
-  <a href="https://github.com/Mohamed3taa/BallonDOr-Winners-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=BallonDOr-Winners-Analysis&theme=dracula" />
-  </a>
-</p>
-
-
----
-
-### 📈 GitHub Stats  
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=Mohamed3taa&show_icons=true&theme=gotham&hide_border=true&rank_icon=github&include_all_commits=true" 
-    alt="GitHub Stats" 
-  />
-</p>
 
 
 
