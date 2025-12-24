@@ -50,6 +50,12 @@
 
 ---
 
+
+![Snake animation](https://raw.githubusercontent.com/Ameramahmoud22/Ameramahmoud22/output/snake.svg)
+
+
+---
+
 <div align="center">
   Show some ❤️ by starring some of the repositories!
   <br>
