@@ -53,11 +53,3 @@
 
 ![Snake animation](https://raw.githubusercontent.com/Ameramahmoud22/Ameramahmoud22/output/snake.svg)
 
-
----
-
-<div align="center">
-  Show some ❤️ by starring some of the repositories!
-  <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhtdGZjdDdteHJ0anRiZ3pvdWQzbDdsdDNlbnk3bDNlYTEzanByNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TR996IaHtmDi1x98zW/giphy.gif" alt="Star GIF" width="80"/>
-</div>
