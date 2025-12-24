@@ -52,21 +52,19 @@
 
 ### 📌 Pinned Projects  
 <p align="left">
-  <a href="https://github.com/Mohamed3taa/Olist_Ecommerce_Project" target="_blank">
-    <img align="center" 
-      src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Mohamed3taa&repo=Olist_Ecommerce_Project&theme=dracula&cache_seconds=86400" />
+  <a href="https://github.com/Mohamed3taa/Olist_Ecommerce_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=Olist_Ecommerce_Project&theme=dracula" />
   </a>
 
-  <a href="https://github.com/Mohamed3taa/SuperMarket_Analysis" target="_blank">
-    <img align="center" 
-      src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Mohamed3taa&repo=SuperMarket_Analysis&theme=dracula&cache_seconds=86400" />
+  <a href="https://github.com/Mohamed3taa/SuperMarket_Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=SuperMarket_Analysis&theme=dracula" />
   </a>
 
-  <a href="https://github.com/Mohamed3taa/BallonDOr-Winners-Analysis" target="_blank">
-    <img align="center" 
-      src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Mohamed3taa&repo=BallonDOr-Winners-Analysis&theme=dracula&cache_seconds=86400" />
+  <a href="https://github.com/Mohamed3taa/BallonDOr-Winners-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3taa&repo=BallonDOr-Winners-Analysis&theme=dracula" />
   </a>
 </p>
+
 
 ---
 
